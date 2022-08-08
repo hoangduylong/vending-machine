@@ -1,0 +1,3 @@
+0 Coffee 0
+1 Water 1
+2 Milk 2

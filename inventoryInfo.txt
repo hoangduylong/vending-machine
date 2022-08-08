@@ -1,0 +1,9 @@
+VM1	Coffee	9
+VM1	Water	4095
+VM1	Milk	4096
+VM2	Coffee	4096
+VM2	Water	4095
+VM2	Milk	10
+VM3	Coffee	4096
+VM3	Water	4096
+VM3	Milk	4096
